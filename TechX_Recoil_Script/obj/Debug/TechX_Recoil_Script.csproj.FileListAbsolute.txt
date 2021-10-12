@@ -1,0 +1,2 @@
+C:\Users\Hannes\Desktop\TechX_Recoil_Script\obj\Debug\TechX_Recoil_Script.csproj.CoreCompileInputs.cache
+C:\Users\Hannes\Desktop\TechX_Recoil_Script\obj\Debug\TechX_Recoil_Script.csproj.AssemblyReference.cache

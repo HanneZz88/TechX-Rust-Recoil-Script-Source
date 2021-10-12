@@ -1,0 +1,5 @@
+C:\Users\Hannes\Desktop\TechX_Recoil_Script\obj\Release\TechX_Recoil_Script.csproj.CoreCompileInputs.cache
+C:\Users\Hannes\Desktop\TechX_Recoil_Script\bin\Release\TechX_Recoil_Script.exe
+C:\Users\Hannes\Desktop\TechX_Recoil_Script\bin\Release\TechX_Recoil_Script.pdb
+C:\Users\Hannes\Desktop\TechX_Recoil_Script\obj\Release\TechX_Recoil_Script.exe
+C:\Users\Hannes\Desktop\TechX_Recoil_Script\obj\Release\TechX_Recoil_Script.pdb
